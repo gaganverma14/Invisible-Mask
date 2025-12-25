@@ -50,13 +50,15 @@ The result is an image that looks normal but behaves differently for AI systems.
 
 Installation & Setup: 
 
-1️⃣ Clone the repository
+1️⃣ Clone the repository: 
 
 git clone https://github.com/gaganverma14/invisible-mask.git
 cd invisible-mask
 
-2️⃣ Install dependencies
+2️⃣ Install dependencies: 
+
 python -m pip install -r requirements.txt
 
-3️⃣ Run the application
+3️⃣ Run the application: 
+
 python -m streamlit run app.py
